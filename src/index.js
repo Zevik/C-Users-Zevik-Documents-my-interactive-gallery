@@ -1,6 +1,6 @@
 // src/index.js
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
 import { components } from './componentRegistry';
 import './index.css';
@@ -9,6 +9,11 @@ import './index.css';
 const App = () => {
     // State לאחסון האינדקס של הקומפוננטה שנבחרה כעת
     const [selectedComponentIndex, setSelectedComponentIndex] = useState(null);
+
+    // useEffect לגלילה לראש העמוד בכל פעם שמשנים קומפוננטה
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, [selectedComponentIndex]);
 
     // פונקציה לטיפול בבחירת קומפוננטה מהרשימה
     const handleSelectComponent = (index) => {

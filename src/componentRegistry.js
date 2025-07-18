@@ -33,148 +33,148 @@ import UncannyValleyWhyAreWeAfraidOfRobots from './components/UncannyValleyWhyAr
 
 export const components = [
     {
-        name: "Ant Brain Swarm Intelligence",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "מוח הנמלים - אינטליגנציה נחילית",
+        description: "גלו כיצד נמלים פועלות יחד כמוח אחד גדול ליצירת פתרונות מורכבים",
         component: <AntBrainSwarmIntelligence />
     },
     {
-        name: "Antikythera Mechanism",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "מנגנון אנטיקיתרה - המחשב העתיק",
+        description: "המכונה היוונית המסתורית שחזתה את תנועות הכוכבים לפני 2000 שנה",
         component: <AntikytheraMechanism />
     },
     {
-        name: "Banach Tarski Paradox One Ball Two Balls",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "פרדוקס בנך-טרסקי - כדור אחד הופך לשניים",
+        description: "איך מתמטיקה יכולה להכפיל כדור לשני כדורים זהים בגודל המקורי",
         component: <BanachTarskiParadoxOneBallTwoBalls />
     },
     {
-        name: "Blockchain Explained Simply How Crypto Works",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "בלוקצ'יין פשוט - כיצד קריפטו עובד",
+        description: "הבנה פשוטה ונגישה של הטכנולוגיה מאחורי המטבעות הדיגיטליים",
         component: <BlockchainExplainedSimplyHowCryptoWorks />
     },
     {
-        name: "Dunning Kruger Effect Why We Dont Know That We Dont Know",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "אפקט דנינג-קרוגר - למה אנחנו לא יודעים שאנחנו לא יודעים",
+        description: "המנגנון הפסיכולוגי שגורם לאנשים לא מיומנים להעריך יתר על המידה את עצמם",
         component: <DunningKrugerEffectWhyWeDontKnowThatWeDontKnow />
     },
     {
-        name: "Epigenetics Environment Activates Genes",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "אפיגנטיקה - הסביבה מפעילה גנים",
+        description: "כיצד הסביבה והתנהגויות שלנו משפיעות על ביטוי הגנים מבלי לשנות את ה-DNA",
         component: <EpigeneticsEnvironmentActivatesGenes />
     },
     {
-        name: "Herd Immunity The Community Shield",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "חסינות עדר - המגן הקהילתי",
+        description: "איך חיסונים של חלק מהאוכלוסייה מגנים על כולם",
         component: <HerdImmunityTheCommunityShield />
     },
     {
-        name: "How Noise Cancelling Headphones Work",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "אוזניות ביטול רעש - כיצד הן עובדות",
+        description: "הטכנולוגיה המרתקת מאחורי יצירת שקט באמצעות גלי קול הפוכים",
         component: <HowNoiseCancellingHeadphonesWork />
     },
     {
-        name: "Koch Snowflake Infinity In Finiteness",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "פתית שלג קוך - אינסוף בסופיות",
+        description: "הצורה הגיאומטרית שמוכיחה שיכול להיות היקף אינסופי בשטח סופי",
         component: <KochSnowflakeInfinityInFiniteness />
     },
     {
-        name: "Light From Darkness A Journey Into Sonoluminescence",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "אור מחושך - מסע אל הסונולומינסנציה",
+        description: "התופעה המדהימה שבה בועות קוטנות יוצרות אור בטמפרטורות גבוהות מהשמש",
         component: <LightFromDarknessAJourneyIntoSonoluminescence />
     },
     {
-        name: "Maillard Reaction",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "תגובת מייאר - הקסם מאחורי הטעם והריח של אוכל מבושל",
+        description: "התהליך הכימי שיוצר את הטעמים והריחות המופלאים של אוכל מבושל",
         component: <MaillardReaction />
     },
     {
-        name: "Maxwells Demon Challenging The Laws Of Thermodynamics",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "שד מקסוול - מאתגר את חוקי התרמודינמיקה",
+        description: "הניסוי המחשבתי שמטלטל את ההבנה שלנו על האנטרופיה והחוק השני",
         component: <MaxwellsDemonChallengingTheLawsOfThermodynamics />
     },
     {
-        name: "Mayan Writing System Deciphering",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "פיענוח כתב המאיה - פתיחת חלון לעבר",
+        description: "הסיפור המרתק של פיענוח אחת מערכות הכתב העתיקות והמורכבות בעולם",
         component: <MayanWritingSystemDeciphering />
     },
     {
-        name: "Octopus Intelligence Problem Solving",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "תבונת התמנון - פתרון בעיות ברמה גבוהה",
+        description: "חקירת האינטליגנציה המדהימה של יצורים ללא עמוד שדרה",
         component: <OctopusIntelligenceProblemSolving />
     },
     {
-        name: "Pagerank Algorithm Simplified",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "אלגוריתם PageRank - איך גוגל דירגה את האינטרנט",
+        description: "האלגוריתם שחולל מהפכה בחיפוש ברשת ויצר את אימפריית גוגל",
         component: <PagerankAlgorithmSimplified />
     },
     {
-        name: "Pangolin Secrets Armor And Survival",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "סודות הפנגולין - שריון וישרדות",
+        description: "הייצור היחיד עם קשקשים שהוא גם סמל לפגיעות ולחוסן בטבע",
         component: <PangolinSecretsArmorAndSurvival />
     },
     {
-        name: "Prisoners Dilemma When Personal Logic Ruins Common Interest",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "דילמת האסיר - כשההיגיון האישי הורס את האינטרס הכללי",
+        description: "המצב הקלאסי בתורת המשחקים שמסביר התנהגויות חברתיות ופוליטיות",
         component: <PrisonersDilemmaWhenPersonalLogicRuinsCommonInterest />
     },
     {
-        name: "Quantum Entanglement",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "הסתבכות קוונטית - הקשר המסתורי",
+        description: "התופעה המדהימה שבה חלקיקים מקושרים ברגש ללא קשר למרחק ביניהם",
         component: <QuantumEntanglement />
     },
     {
-        name: "Suspension Bridges The Secret Behind The Physical Giant",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "גשרים תלויים - הסוד מאחורי הענק הפיזי",
+        description: "איך הנדסה חכמה מאפשרת לגשרים להחזיק טונות של משקל על פרושים ענקיים",
         component: <SuspensionBridgesTheSecretBehindThePhysicalGiant />
     },
     {
-        name: "The Chaos Of A Butterfly A Breeze That Changes The World",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "כאוס הפרפר - נשיבה שמשנה את העולם",
+        description: "איך שינויים זעירים יכולים לגרום לתוצאות דרמטיות - תורת הכאוס",
         component: <TheChaosOfAButterflyABreezeThatChangesTheWorld />
     },
     {
-        name: "The Dancing Plague Of 1518 The Mystery That Bewildered Europe",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "מגפת הריקוד של 1518 - התעלומה שהדהימה את אירופה",
+        description: "האירוע ההיסטורי המוזר שבו מאות אנשים רקדו עד מוות ללא הפסקה",
         component: <TheDancingPlagueOf1518TheMysteryThatBewilderedEurope />
     },
     {
-        name: "The Great Emu War",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "מלחמת האמו הגדולה - כשציפורים ניצחו צבא",
+        description: "הסיפור המופלא על מלחמה בין חיילים אוסטרליים לציפורי אמו - ומי ניצח",
         component: <TheGreatEmuWar />
     },
     {
-        name: "The Power Of Belief Placebo Effect",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "כוח האמונה - אפקט הפלצבו",
+        description: "איך המוח שלנו יכול לרפא את הגוף באמצעות אמונה בלבד",
         component: <ThePowerOfBeliefPlaceboEffect />
     },
     {
-        name: "The Power Of Weak Ties Why Distant Acquaintance Opens Doors",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "כוח הקשרים החלשים - למה מכרים רחוקים פותחים דלתות",
+        description: "מדוע אנשים שאנחנו בקושי מכירים לעתים עוזרים לנו יותר מחברים קרובים",
         component: <ThePowerOfWeakTiesWhyDistantAcquaintanceOpensDoors />
     },
     {
-        name: "The Secret Of Desire Paths How Pedestrians Design Better Cities",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "סוד שבילי הרצון - איך הולכי רגל מעצבים ערים טובות יותר",
+        description: "איך שבילים לא מתוכננים שנוצרים על ידי הולכי רגל מלמדים אותנו על עיצוב עירוני",
         component: <TheSecretOfDesirePathsHowPedestriansDesignBetterCities />
     },
     {
-        name: "Theseus Ship Paradox",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "פרדוקס ספינת תזאוס - מה עושה אותנו אנחנו",
+        description: "השאלה הפילוסופית הקלאסית על זהות ושינוי לאורך זמן",
         component: <TheseusShipParadox />
     },
     {
-        name: "Time Travel Twin Paradox",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "פרדוקס התאומים - מסע בזמן למתחילים",
+        description: "איך מהירות גבוהה יכולה לגרום לתאום אחד להזדקן לאט יותר מהשני",
         component: <TimeTravelTwinParadox />
     },
     {
-        name: "Trolley Problem",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "בעיית הרכבת - דילמה מוסרית קלאסית",
+        description: "האם מותר להציל חמישה אנשים על ידי הריגת אדם אחד? דילמה שבוחנת את המוסר שלנו",
         component: <TrolleyProblem />
     },
     {
-        name: "Uncanny Valley Why Are We Afraid Of Robots",
-        description: "חקירה לקומפוטציונלית של זירופס במושמר",
+        name: "עמק האימה - למה אנחנו מפחדים מרובוטים",
+        description: "התופעה הפסיכולוגית שגורמת לנו לחוש אי נוחות מדמויות כמעט אנושיות",
         component: <UncannyValleyWhyAreWeAfraidOfRobots />
     }
 ];
